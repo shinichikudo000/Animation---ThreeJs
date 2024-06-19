@@ -1,0 +1,33 @@
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+div {
+  display: flex;
+  text-align: center;
+}
+
+h1 {
+  position: absolute;
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: white;
+  font-family: Victor Mono;
+  top: 40%;
+  left: 30%;
+  transform: translate(-20%, -40%);
+  z-index: 2;
+}
+
+
+
+
